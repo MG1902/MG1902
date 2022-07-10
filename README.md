@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Android Apps**
 
-- 🌱 I’m currently learning **Machine learning**
-
 - 💬 Ask me about **Android, Competitive Programming**
 
 - ⚡ Fun fact **Engineering Student and Half Finish😅**
